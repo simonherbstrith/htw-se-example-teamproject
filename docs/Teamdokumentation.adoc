@@ -1,6 +1,6 @@
 = Teamdokumentation
-Vorname Nachname <email>
-0.1, 01.09.2019
+Simon Herbstrith <simon.herbstrith@htw-dresden.de>
+0.1, 25.10.2020
 :toc:
 :toc-title: Inhaltsverzeichnis
 // Platzhalter für weitere Dokumenten-Attribute
